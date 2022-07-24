@@ -1,4 +1,4 @@
-# 🤖 discord-bot
+# 🤖 wudroid
 
 ## 📃 Description:
 A general-purporse discord bot with advanced features such as a music and economy system.
